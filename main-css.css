@@ -1,0 +1,35 @@
+
+
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    background-image: url("Shrine.gif");
+    width: 100%;
+    height: 100vh;
+    backdrop-filter: blur(5px);
+}
+
+#dangXuat{
+    background: none;
+    border: none;
+    color: white;
+    align-items: center;
+}
+
+#userName{
+    background: none;
+    border: none;
+    color: white;
+    align-items: center;
+}
+
+#userCash{
+    background: none;
+    border: none;
+    color: white;
+    align-items: center;
+}
+
